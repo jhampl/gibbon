@@ -1,2 +1,2 @@
 # gibbon
-a training regimen extension for monkeytype.com
+A training regimen extension for [monkeytype.com](www.monkeytype.com).
